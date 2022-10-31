@@ -1,6 +1,6 @@
 to use:  
 
-`import LFO from 'LFO'`  
+`import LFO from 'lfo-value'`  
 
 create a new instance of the lfo specifying, min value, max value, and frequency in seconds  
 
