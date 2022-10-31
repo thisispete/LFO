@@ -1,0 +1,23 @@
+{
+  "author": {
+    "name": "▲PETE",
+    "url": "htts:thisispete.com"
+  },
+  "name": "lfo",
+  "version": "1.0.0",
+  "description": "low-frequency oscillator for javascript",
+  "main": "LFO.js",
+  "keywords": [
+    "lfo",
+    "low-frequency",
+    "oscillator"
+  ],
+  "repository": "github:thisispete/LFO",
+  "license": "MIT",
+  "files": [
+    "lfo.js"
+  ],
+  "engines": {
+    "node": "*"
+  }
+}
