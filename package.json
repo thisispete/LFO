@@ -3,7 +3,7 @@
     "name": "▲PETE",
     "url": "htts:thisispete.com"
   },
-  "name": "lfo",
+  "name": "lfo-value",
   "version": "1.0.0",
   "description": "low-frequency oscillator for javascript",
   "main": "LFO.js",
