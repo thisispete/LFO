@@ -4,9 +4,10 @@
     "url": "htts:thisispete.com"
   },
   "name": "lfo-value",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "low-frequency oscillator for javascript",
   "main": "LFO.js",
+  "type": "module",
   "keywords": [
     "lfo",
     "low-frequency",
@@ -15,7 +16,7 @@
   "repository": "github:thisispete/LFO",
   "license": "MIT",
   "files": [
-    "lfo.js"
+    "LFO.js"
   ],
   "engines": {
     "node": "*"
